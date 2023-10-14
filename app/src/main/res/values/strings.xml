@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmptyProject</string>
+    <string name="message_text">Please wait</string>
+</resources>
